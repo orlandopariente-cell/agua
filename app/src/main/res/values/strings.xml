@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Água</string>
+    <string name="widget_name">Água – status</string>
+    <string name="widget_description">Mostra se você está acima ou abaixo da meta de água até agora</string>
+</resources>
